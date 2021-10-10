@@ -15,6 +15,9 @@ Trying to learn new technologies especially Azure.
     - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
     - [VueJS](https://vuejs.org)
     - [Angular](https://angular.io)
+  - Backend
+    - [GraphQL API](https://graphql.org/)
+    - [Azure Cosmos DB API for MongoDB](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/mongodb-introduction)
   - DevOps
     - [Azure ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/)
     - [Github Actions](https://docs.microsoft.com/en-us/azure/developer/github/github-actions)
