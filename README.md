@@ -27,7 +27,14 @@ Trying to learn new technologies especially Azure.
     - [Martin Fowler Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 
 ## Projects
-### Preschool/Daycare Registration
-* Allow guarding/parent to register their child with a daycare
-* Notify if registration was successful
-* Allow daycare/center administrator to view and act on registration
+
+### Preschool/Daycare Centre Administration
+
+- Registration
+  - Guardian/parent fill in registration details online or in-person
+  - Guardian/parent get notified of their registration
+  - Provided option to pay registration fees electronically (EFT/Online Payment)
+  - Centre administrator
+    - Notified of new registration
+    - Update registration details if payment made
+    - Send enrollment information to guardian/parent registering
